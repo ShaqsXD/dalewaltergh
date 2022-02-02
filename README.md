@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dale Walter</h1>
 <h3 align="center">A very passionate programmer</h3>
 
-- 🔭 I’m currently a student at Avion School
-- 🌱 I’m currently learning React and React Native
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to draw, skate and play basketball
+- 🔭 I’m currently a student at **Avion School**
+- 🌱 I’m currently learning **React and React Native**
+- 💬 Ask me about ... **Anything**
+- ⚡ Fun fact: **I love to draw, skate and play basketball**
+- 📫 How to reach me **dalewaltergh@gmail.com**
 
 ### Languages and Tools:
 [<img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][github]

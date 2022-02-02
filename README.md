@@ -38,7 +38,7 @@
   <img align="left" alt="Illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
   <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
 </p>
-<br/>
+<br/><br/>
 <details>
   <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmaximdev" />

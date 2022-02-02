@@ -31,7 +31,7 @@
   <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
 </p>
 
-<br/><br/>
+<br/>
 
 ### Connect with me: 
 <p align="left">

@@ -8,6 +8,14 @@
 - ⚡ Fun fact: **I love to draw, skate, play basketball and develop my own game or game engine**
 - 📫 How to reach me **dalewaltergh@gmail.com**
 
+### Connect with me: 
+<p align="left">
+<a href="https://dev.to/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dalewaltergh" height="30" width="40" /></a>
+<a href="https://twitter.com/wmaximdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wmaximdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalewaltergh" height="30" width="40" /></a>
+<a href="https://codesandbox.com/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dalewaltergh" height="30" width="40" /></a>
+<a href="https://dribbble.com/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dalewaltergh" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 <p align="left"> 
@@ -31,15 +39,11 @@
   <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
 </p>
 
-<br/>
 
-### Connect with me: 
-<p align="left">
-<a href="https://dev.to/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dalewaltergh" height="30" width="40" /></a>
-<a href="https://twitter.com/wmaximdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wmaximdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalewaltergh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dalewaltergh" height="30" width="40" /></a>
-<a href="https://dribbble.com/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dalewaltergh" height="30" width="40" /></a>
-</p>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmaximdev" />
+</details>
+
 
 [github]: https://github.com/wmaximdev

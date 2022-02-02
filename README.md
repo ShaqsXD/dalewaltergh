@@ -4,6 +4,7 @@
 ### About Me
 - 🔭 I’m currently a student at **Avion School**
 - 🌱 I’m currently learning **React and React Native**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://wmaximdev.github.io/portfolio)**
 - 💬 Ask me about ... **Anything**
 - ⚡ Fun fact: **I love to draw, skate, play basketball and develop my own game or game engine**
 - 📫 How to reach me **dalewaltergh@gmail.com**
@@ -39,9 +40,3 @@
   <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
 </p>
 <br/><br/>
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmaximdev" />
-</details>
-
-[github]: https://github.com/wmaximdev

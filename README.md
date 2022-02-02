@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dale Walter</h1>
 <h3 align="center">A very passionate programmer</h3>
 
-### 🙋‍♂️ About Me
+### About Me
 - 🔭 I’m currently a student at **Avion School**
 - 🌱 I’m currently learning **React and React Native**
 - 💬 Ask me about ... **Anything**

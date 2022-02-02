@@ -27,8 +27,9 @@
   <img align="left" alt="Unity3D" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
   <img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
   <img align="left" alt="Illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
-  <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/></p>
-
+  <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
+</p>
+<br/>
 
 ## Talk with me: 
 

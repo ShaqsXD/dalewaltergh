@@ -8,7 +8,6 @@
 - ⚡ Fun fact: **I love to draw, skate, play basketball and develop my own game or game engine**
 - 📫 How to reach me **dalewaltergh@gmail.com**
 
-<br/>
 
 ### Languages and Tools:
 <p align="left"> 

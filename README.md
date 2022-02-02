@@ -39,9 +39,11 @@
 
 ### GameDev Languages and Tools: 
 <p align="left"> 
-  <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
-  <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-  <img align="left" alt="Unity3D" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
-  <img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
-  <img align="left" alt="Illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
+  <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img align="left" alt="CSharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+  <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+  <img align="left" alt="Unity3D" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
+  <img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+  <img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+  <img align="left" alt="Blender" width="26px" src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
 </p>

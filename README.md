@@ -35,6 +35,8 @@
   <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
 </p>
 
+<br/><br/>
+
 ### GameDev Languages and Tools: 
 <p align="left"> 
   <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
@@ -43,5 +45,3 @@
   <img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
   <img align="left" alt="Illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
 </p>
-
-<br/><br/>

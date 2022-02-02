@@ -8,6 +8,8 @@
 - ⚡ Fun fact: **I love to draw, skate, play basketball and develop my own game or game engine**
 - 📫 How to reach me **dalewaltergh@gmail.com**
 
+<br/>
+
 ### Languages and Tools:
 <p align="left"> 
   <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"/>
@@ -29,7 +31,8 @@
   <img align="left" alt="Illustrator" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
   <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
 </p>
-<br/>
+
+<br/><br/>
 
 ## Connect with me: 
 <p align="left">

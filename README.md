@@ -29,7 +29,7 @@
 [<img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />][github]
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://dev.to/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dalewaltergh" height="30" width="40" /></a>
 <a href="https://twitter.com/wmaximdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wmaximdev" height="30" width="40" /></a>

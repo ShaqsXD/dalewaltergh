@@ -11,11 +11,20 @@
 
 ### Connect with me: 
 <p align="left">
-<a href="https://dev.to/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dalewaltergh" height="30" width="40" /></a>
-<a href="https://twitter.com/wmaximdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wmaximdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalewaltergh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dalewaltergh" height="30" width="40" /></a>
-<a href="https://dribbble.com/dalewaltergh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dalewaltergh" height="30" width="40" /></a>
+<a href="https://dev.to/dalewaltergh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DevTo" width="26" /></a>
+<a href="https://twitter.com/wmaximdev" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="26" />
+</a>
+<a href="https://linkedin.com/in/dalewaltergh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="26" />
+</a>
+<a href="https://codesandbox.com/dalewaltergh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Codesandbox" width="26" />
+</a>
+<a href="https://dribbble.com/dalewaltergh" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" width="26" />
+</a>
 </p>
 
 ### WebDev Languages and Tools:

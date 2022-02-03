@@ -11,20 +11,11 @@
 
 ### Connect with me: 
 <p align="left">
-<a href="https://dev.to/dalewaltergh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DevTo" width="26" /></a>
-<a href="https://twitter.com/wmaximdev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="26" />
-</a>
-<a href="https://linkedin.com/in/dalewaltergh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="26" />
-</a>
-<a href="https://codesandbox.com/dalewaltergh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Codesandbox" width="26" />
-</a>
-<a href="https://dribbble.com/dalewaltergh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" width="26" />
-</a>
+  <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-shadow-tal-revivo.png" alt="DevTo" width="26" />
+  <img align="center" src="https://img.icons8.com/ios/50/000000/twitter.png" alt="Twitter" width="26" />
+  <img align="center" src="https://img.icons8.com/windows/32/000000/linkedin.png" alt="LinkedIn" width="26" />
+  <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-shadow-tal-revivo.png" alt="Codesandbox" width="26" />
+  <img align="center" src="https://img.icons8.com/glyph-neue/64/000000/dribbble.png" alt="dribbble" width="26" />
 </p>
 
 ### WebDev Languages and Tools:

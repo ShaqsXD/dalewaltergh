@@ -2,7 +2,8 @@
 <h3 align="center">A very passionate programmer</h3>
 
 ### About Me
-- 🔭 I’m currently a student at **Avion School**
+- 🏫 I studied BSEMC(Entertainment and Multimedia Computing)/Major in game development
+- 📚 I’m current a software engineering(Fullstack Web) student at **Avion School**
 - 🌱 I’m currently learning **MERN STACK**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://wmaximdev.github.io/portfolio)**
 - 💬 Ask me about ... **Anything**

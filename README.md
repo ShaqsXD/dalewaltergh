@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Dale Walter</h1>
-<h3 align="center">A very passionate programmer</h3>
+<h3 align="center">hobbyist programmer</h3>
 
 ### About Me
 - 🏫 I studied BSEMC(Entertainment and Multimedia Computing)/Major in game development

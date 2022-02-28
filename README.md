@@ -28,10 +28,12 @@
   <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
   <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
   <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+  <img align="left" alt="express" width="26px" src="https://www.mementotech.in/assets/images/icons/express.png"/>
+  <img align="left" alt="postgresql" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
   <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+  <img alig="left" alt="socket.io" width="26px" src="https://www.vulper.io/wp-content/uploads/2020/08/kisspng-socket-io-node-js-javascript-network-socket-websoc-socket-io-logo-in-svg-jpg-png-5b81a6e505cd53.3223084015352235250238.jpg" />
   <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
-  <img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"/>
   <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img align="left" alt="Adobe XD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
 </p>
